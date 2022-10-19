@@ -1,14 +1,14 @@
 {
-  "name": "Secktor-Md",
+  "name": "VT-MUSIC BOT",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png",
+  "logo": "https://i.ibb.co/JmC0Vqy/res-drawable-xxhdpi-v4-ic-music-default-big.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Your Name."
+      "value": "∇✸⚒ⁱᴠɪʜᴀɢᴀ ᴛʜɪᴋꜱᴀɴᴀᵐ🛠✸∇"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -91,7 +91,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
+     "value": "VIHAGA THIKSANA",
      "required": false 
   }
 },
